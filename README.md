@@ -1,1 +1,1 @@
-# down_sample_pcd
+./build_and_run.sh [file_directory]
